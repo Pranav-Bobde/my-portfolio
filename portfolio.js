@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having experience in building full stack applications with JavaScript / VueJs / Reactjs / Nodejs / Python / AWS and some other cool libraries and frameworks.",
 	resumeLink:
-		"https://docs.google.com/document/d/18QDTV9Yj3JrLNoHaU97RUn16NaUyTwkk4XOzIu_Zy7E/edit",
+		"https://drive.google.com/file/d/1SbxYzzMBHBMgDLfNYlyTcyfGtNvC8YlT/view?usp=sharing",
 };
 
 export const openSource = {
