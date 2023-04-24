@@ -210,16 +210,11 @@ export const experience = [
     companylogo: '/img/icons/common/kld.png',
     date: 'Jan 2023 – June 2022',
     descBullets: [
-      'Develeoped end-to-end web applications using cutting-edge technologies like Quasar, Vue.js, TypeScript, Tanstack Query, and Zod, ensuring adherence to modern application development practices.',
-      'Collaborated in translating Figma designs and wire-frames into responsive, user-friendly front-end interfaces to improve user experience.',
-      'Developed and deployed multiple back-end services using AWS SAM Template, which includes AWS Lambda, API Gateway, CloudWatch, and Node.js through AWS CloudFormation.',
-      'Implemented robust API token authentication using AWS Authorizers, safeguarding API Gateway routes and ensuring secure data access.',
-      'Created CI/CD pipelines for all micro-services front-end application via Jenkins, streamlining application deployment and updates.',
-      'Added PWA - Push Notifications feature via service worker web-push, enhancing application functionality and user engagement.',
-      'Developed a coins-back service by creating a cron-job utilizing AWS EventBridge and AWS Lambda.',
-      'Integrated WhatsApp Login flow using Meta’s WhatsApp for Business API’s and Webhooks, providing users with an effortless authentication process.',
-      'Helped devise Business Requirements Document (BRD) and Solutions Architecture Documents for Pilot and POC apps, aligning project goals with stakeholder expectations.',
-      'Facilitated successful completion of POC app from concept to launch by working closely with cross-functional teams and driving project progress.',
+      'Implemented token-based authorization for API Gateway and developed 6+ microservices.',
+      'Achieved 100% server cost savings by transitioning from EC2-based Jenkins to GitLab CI.',
+      'Improved deployment efficiency by 50% by implementing CI/CD pipelines for microservices and frontend app.',
+      `Implemented Meta’s WhatsApp for Business APIs and Webhooks to provide users with a familiar and user-friendly
+      authentication experience, resulting in improved satisfaction.`,
     ],
   },
   {
@@ -228,13 +223,11 @@ export const experience = [
     companylogo: '/img/icons/common/radius-logo.png',
     date: 'Sept 2021 – Apr 2022',
     descBullets: [
-      'Collaborated with design teams and senior software engineers in an agile environment to develop customized software products.',
-      'Meticulously analyzed source code to identify and address functionality issues, ensuring improved software performance and reliability.',
-      'Actively contributed to deployment processes by pinpointing and resolving concerns, optimizing results and facilitating seamless software operations.',
-      'Proactively debugged and resolved over 60 issues, including 35+ during the release phase, playing a vital role in the successful launch of Radius 1.0.',
-      'Enhanced software capabilities by adding Tally Integration as a primary feature, developing AWS Lambdas, and implementing numerous minor features.',
-      'Demonstrated adaptability by working on a critical side project focused on integrating a messaging service into a client’s existing system, resulting in increased client satisfaction.',
-      'Utilized a diverse tech stack, including Quasar Framework, HTML, CSS, Vue.js, AWS, and GraphQL, to solve complex problems and deliver high-quality software products.',
+      'Collaborated with design and software teams in Agile environment to develop customized software products.',
+      'Played a crucial role in the successful release of Radius 1.0 by proactively debugging and resolving over 95 issues.',
+      'Added Tally Integration and minor features to enhance software capabilities using AWS Lambdas.',
+      `Demonstrated adaptability by working on a critical side project focused on integrating a messaging service into a client’s
+      existing system, resulting in increased client satisfaction.`,
     ],
   },
   {
@@ -243,9 +236,10 @@ export const experience = [
     companylogo: '/img/icons/common/oppia-logo.png',
     date: 'Apr 2021 – Sept 2021',
     descBullets: [
-      'Acquired experience in best practices and industry standards while working on a large-scale, real-world software system codebase',
-      'Actively participated in weekly SCRUM meetings, discussing current roadblocks and planned tasks to ensure smooth project progress and effective teamwork.',
-      'Gained experience in using version control by successfully merging multiple Pull Requests (PRs) on the Oppia-Android GitHub repository, showcasing collaboration and contribution to open-source projects:',
+      'Experienced in industry standards and best practices while working on large-scale software system.',
+      'Actively participated in weekly SCRUM meetings to ensure project progress and effective teamwork.',
+      `Learned Git and hands-on experience by successfully merging multiple Pull Requests (PRs) on Oppia-Android GitHub
+      repository:`,
       'https://github.com/oppia/oppia-android/pull/3013',
       ' https://github.com/oppia/oppia-android/pull/3630',
       'https://github.com/oppia/oppia-android/pull/3806',
